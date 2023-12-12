@@ -1,1 +1,9 @@
+
 welcome to AWS Devops!!
+
+GIT
+maven
+jenkins
+docker
+kubernetes
+
